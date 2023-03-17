@@ -1,0 +1,13 @@
+.flex{
+    display: flex;
+}
+.itemcenter{
+    justify-content: center;
+    align-items: center;
+}
+.fxcol{
+    flex-direction: column;
+}
+.spcevenly{
+    justify-content: space-evenly;
+}
