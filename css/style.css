@@ -55,4 +55,7 @@ body{
     .btn{
         font-size: 40px;
     }
+    .btn:hover{
+        font-size: 40px;
+    }
 }
